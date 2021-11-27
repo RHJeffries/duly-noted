@@ -1,5 +1,5 @@
 const notes = require('express').Router();
-const { readFile, readAppend };
+const { readFile, readAppend } = require('../helpers/fsUtils');
 
 //unique id for notes
 const { uuid } = require('uuidv4');
