@@ -1,6 +1,16 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "title": "New notes",
+        "text": "test notes",
+        "id": "c3fbfc8a-4a9b-4978-805f-61953718ccf9"
+    },
+    {
+        "title": "more notes",
+        "text": "more notes added",
+        "id": "ab6f0181-b932-44ae-8da9-2206be6f2ec5"
     }
 ]

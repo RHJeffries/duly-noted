@@ -30,9 +30,9 @@ const readAppend = (content, file) => {
     } else {
       const parsedData = JSON.parse(data);
       parsedData.push(content);
-      writeToFile(file, parsedData);
+      writeFile(file, parsedData);
     }
   });
 };
 
-module.exports = { readFile, readAppend };
+module.exports = { readFile, writeFile, readAppend };
