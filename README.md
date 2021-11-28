@@ -18,6 +18,10 @@
   
   ## Usage:
   To use the application the webpage will need to be deployed, then click on the "Get Started" button on the first screen. To add a new note click the plus sign in the top right corner, then add a title and the content of your note. Previous notes will be listed on the left hand side and can be accessed by clicking on them 
+
+  Start page of note taker ![Start page of note taker](./screenshots/screenshot_1.jpg)
+
+  Main page of note taker ![Note taking page](./screenshots/screenshot_2.jpg)
   
   ## License:
   Further details about the licence can be found here [MIT licence](https://opensource.org/licenses/MIT)
